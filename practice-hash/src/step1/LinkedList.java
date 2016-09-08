@@ -63,4 +63,9 @@ public class LinkedList {
 		}
 		return temp.value;
 	}
+	public int change(int key, int value){
+		//추가할 메서드
+		return value;
+		
+	}
 }
